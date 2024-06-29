@@ -95,7 +95,7 @@ The tests ensure that each shape's `render` method generates the correct SVG str
 
 ## Walkthrough Video
 
-For a detailed walkthrough of how to use SVG Logo Maker and see it in action, watch our [Walkthrough Video](#).
+For a detailed walkthrough of how to use SVG Logo Maker and see it in action, watch our [Walkthrough Video](https://app.screencastify.com/v3/watch/1OepJFx9IyfkO0yksWUI).
 
 ## Contributing
 
